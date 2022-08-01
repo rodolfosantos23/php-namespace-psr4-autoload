@@ -1,9 +1,6 @@
 # php-namespace-psr4-autoload
 Exemplo de autoload de classes no PHP nos padrões PSR-4 utilizando Composer. Assim podemos fazer as chamadas das classes com o padrão de namespace e use.
 
-Fiz esse repositório com propósito educativo para ser utilizado em meu blog onde demonstro como utilizar o composer para gerenciar o autoload:
-https://rodolfosantos.com.br/php-namespace-e-autoload-de-classes-composer/
-
 
 # Instalação
 
